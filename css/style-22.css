@@ -1,0 +1,18 @@
+nav.menu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 15px;
+    background-color: aquamarine;
+    display: none;
+
+}
+
+nav.menu button{
+    display: block;
+    padding: 10px 22px;
+}
+
+nav.menu:hover ul{
+    display: inline-block;
+    background-color:  red;
+}
